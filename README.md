@@ -10,6 +10,12 @@ A collection of skills for search and information retrieval tasks.
 - **Description:** Fetches and reads arxiv paper TeX source, produces summaries
 - **Location:** `./read-arxiv-paper/`
 
+### content-research-writer
+
+- **Source:** [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)
+- **Description:** Writing partner for research, citations, hooks, outlines, and section feedback
+- **Location:** `./content-research-writer/`
+
 ## Attribution
 
 Skills in this collection may originate from various sources. Each skill directory contains its own README with proper attribution to the original authors.
