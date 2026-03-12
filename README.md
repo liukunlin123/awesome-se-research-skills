@@ -16,6 +16,12 @@ A collection of skills for search and information retrieval tasks.
 - **Description:** Writing partner for research, citations, hooks, outlines, and section feedback
 - **Location:** `./content-research-writer/`
 
+### skill-creator
+
+- **Source:** [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+- **Description:** Create, improve, and evaluate skills through iterative testing and benchmarking
+- **Location:** `./skill-creator/`
+
 ## Attribution
 
 Skills in this collection may originate from various sources. Each skill directory contains its own README with proper attribution to the original authors.
